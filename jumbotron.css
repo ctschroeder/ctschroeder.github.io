@@ -1,0 +1,29 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+/* Font specs for slides using jumbotron template only*/
+jumbotronH1 {
+	font-family:inherit;
+	font-weight:600;
+	line-height:1.5;
+	font-size:42px;
+	margin-bottom:20px;
+	padding-bottom:20px;
+	margin-top:30px;
+}
+
+jumbotronH2 {
+	font-family:inherit;
+	font-weight:600;
+	line-height:1.5;
+	color:#37415C;
+	font-size:34px;
+	margin-bottom:40px;
+	padding-bottom:40px;
+	margin-top:30px;
+}
+small {
+	font-size:14px;
+s}
